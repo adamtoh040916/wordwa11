@@ -10,7 +10,7 @@ Wordwa11 is a cheat for wordwall.
 ![unpack](./docs/2.png) </br>
 3. Go to [chrome://extensions](chrome://extensions) and turn on developer mode. </br> </br>
 ![developer mode](./docs/3.png) </br>
-4. Click 'Load unpacked'. </br> </br>
+4. Click 'Load unpacked' and select wordwa11 cheat folder. </br> </br>
 ![load unpacked](./docs/4.png) </br>
 5. Check if extension loads correctly. </br> </br>
 ![check](./docs/5.png) </br>

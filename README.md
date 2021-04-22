@@ -1,6 +1,6 @@
 # Wordwa11
 
-Wordwa11 is a cheat for the wordwall test platform.
+Wordwa11 is a cheat for wordwall.
 
 ## Installation
 

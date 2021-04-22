@@ -4,15 +4,15 @@ Wordwa11 is a cheat for the wordwall test platform.
 
 ## Installation
 
-1. Download cheat as zip file.
+1. Download cheat as zip file. </br>
 ![download](./docs/1.png)
-2. Unpack zip file.
+2. Unpack zip file. </br>
 ![unpack](./docs/2.png)
-3. Go to [chrome://extensions](chrome://extensions) and turn on developer mode.
+3. Go to [chrome://extensions](chrome://extensions) and turn on developer mode. </br>
 ![developer mode](./docs/3.png)
-4. Click 'Load unpacked'.
+4. Click 'Load unpacked'. </br>
 ![load unpacked](./docs/4.png)
-5. Check if extension loads correctly.
+5. Check if extension loads correctly. </br>
 ![check](./docs/5.png)
 
 

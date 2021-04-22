@@ -25,7 +25,7 @@ Wordwa11 is a cheat for wordwall.
 4. Click 'Inject cheat' and have fun!
 
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
-# Any problems? Contact me: `doggo pxtrez#9100`
-
+# Any problems?
+Contact me: `doggo pxtrez#9100` or create an issue
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

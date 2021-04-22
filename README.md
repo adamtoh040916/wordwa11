@@ -28,4 +28,4 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 # Any problems? Contact me: `doggo pxtrez#9100`
 
 ## License
-[GNU GPL v.3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[MIT](https://choosealicense.com/licenses/mit/)

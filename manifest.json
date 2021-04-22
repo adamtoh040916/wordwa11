@@ -1,0 +1,28 @@
+{
+    "name": "wordwa11",
+    "description": "Made by pxtrez || PheaServices 2021 || Discord: doggo pxtrez#9100",
+    "version": "1.0",
+    "background": {
+        "content_scripts": [
+            {
+              "matches": [
+                "*://*.wordwall.net*"
+              ],
+              "js": ["./src/script.js"] 
+              }]
+    },
+    "browser_action": {
+        "default_icon" : "./img/wordwa11.png",
+        "default_popup": "./src/popup.html",
+        "default_title": "wordwa11"
+    },
+    "icons": { 
+        "128": "img/wordwa11.png" },
+    "permissions": [
+        "tabs",
+        "webRequest",
+        "storage",
+        "<all_urls>"
+    ],
+    "manifest_version": 2
+}

@@ -19,12 +19,10 @@ Wordwa11 is a cheat for the wordwall test platform.
 
 ## Usage
 
-```md
 1. Open your wordwall link.
 2. Click on wordwa11 extension logo.
 3. Make sure you have a wordwall account and are logged into it in your browser.
 4. Click 'Inject cheat' and have fun!
-```
 
 
 ## License

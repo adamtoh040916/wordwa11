@@ -13,8 +13,8 @@ Wordwa11 is a cheat for wordwall.
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
 # Known bugs
-- `Inject cheat` button doesn't work.
-* [FIX] Change your browser and try again.
+- `Inject cheat` button doesn't work. </br>
+[FIX] Change your browser and try again.
 
 ## Installation
 

@@ -1,14 +1,15 @@
 {
     "name": "wordwa11",
+    "author": "pxtrez",
     "description": "Made by pxtrez || PheaServices 2021 || Discord: doggo pxtrez#9100",
-    "version": "1.1",
+    "version": "2.0",
     "background": {
         "content_scripts": [
             {
               "matches": [
                 "*://*.wordwall.net*"
               ],
-              "js": ["./src/script.js"] 
+              "scripts": ["./src/script.js"]
               }]
     },
     "browser_action": {
@@ -22,7 +23,8 @@
         "tabs",
         "webRequest",
         "storage",
-        "<all_urls>"
+        "<all_urls>",
+        "activeTab"
     ],
     "manifest_version": 2
 }

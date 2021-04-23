@@ -23,7 +23,8 @@ Wordwa11 is a cheat for wordwall.
 2. Click on wordwa11 extension logo.
 3. Make sure you have a wordwall account and you are logged into it in your browser.
 4. Click 'Inject cheat', wait few seconds and have fun!
-
+</br></br>
+![cheatGUI](./docs/gui.png)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 # Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

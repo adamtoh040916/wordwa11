@@ -29,7 +29,7 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
 # Known bugs
 - `Inject cheat` button doesn't work.
-[FIX] Change your browser and try again.
+* [FIX] Change your browser and try again.
 
 # Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

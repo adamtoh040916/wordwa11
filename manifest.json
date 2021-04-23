@@ -1,7 +1,7 @@
 {
     "name": "wordwa11",
     "description": "Made by pxtrez || PheaServices 2021 || Discord: doggo pxtrez#9100",
-    "version": "1.0",
+    "version": "1.1",
     "background": {
         "content_scripts": [
             {

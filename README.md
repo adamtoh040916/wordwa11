@@ -9,7 +9,7 @@ Wordwa11 is a cheat for wordwall.
 3. Make sure you have a wordwall account and you are logged into it in your browser.
 4. Click 'Inject cheat', wait few seconds and have fun!
 </br></br>
-![cheatGUI](./docs/gui.png)</br></br>
+![cheatGUI](./docs/6.png)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
 # Known bugs

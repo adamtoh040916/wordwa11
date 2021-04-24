@@ -1,10 +1,10 @@
 ### Wordwa11
 
-Wordwa11 is a cheat for wordwall. </br>
-[Usage](#Usage "Goto Usage") </br>
-[Installation](#Installation "Goto Installation") </br>
-[Bugs](#Known-bugs "Goto Known-bugs") </br>
-[Suggestions](#Any-suggestions "Goto Any-suggestions") </br> </br>
+Wordwa11 is a cheat for wordwall. </br> </br>
+* [Usage](#Usage "Goto Usage") </br>
+* [Installation](#Installation "Goto Installation") </br>
+* [Bugs](#Known-bugs "Goto Known-bugs") </br>
+* [Suggestions](#Any-suggestions "Goto Any-suggestions") </br> </br>
 
 ## Usage
 

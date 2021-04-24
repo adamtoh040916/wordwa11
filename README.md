@@ -1,4 +1,4 @@
-### Wordwa11
+# Wordwa11
 
 Wordwa11 is a cheat for wordwall. </br> </br>
 * [Usage](#Usage "Goto Usage") </br>

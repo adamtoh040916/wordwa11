@@ -12,9 +12,6 @@ Wordwa11 is a cheat for wordwall.
 ![cheatGUI](./docs/6.PNG)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
-## Known bugs
--
-
 ## Installation
 
 1. Download cheat as zip file. </br> </br>
@@ -28,6 +25,8 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 5. Check if extension loads correctly. </br> </br>
 ![check](./docs/5.png) </br>
 
+## Known bugs
+-
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

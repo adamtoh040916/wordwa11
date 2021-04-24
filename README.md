@@ -1,4 +1,4 @@
-# Wordwa11
+### Wordwa11
 
 Wordwa11 is a cheat for wordwall.
 
@@ -12,9 +12,8 @@ Wordwa11 is a cheat for wordwall.
 ![cheatGUI](./docs/6.PNG)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
-# Known bugs
-- `Inject cheat` button doesn't work. </br>
-[FIX] Change your browser and try again.
+## Known bugs
+-
 
 ## Installation
 
@@ -30,7 +29,7 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 ![check](./docs/5.png) </br>
 
 
-# Any suggestions?
+## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

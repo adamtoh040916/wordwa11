@@ -4,7 +4,8 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 * [Usage](#Usage "Goto Usage") </br>
 * [Installation](#Installation "Goto Installation") </br>
 * [Bugs](#Known-bugs "Goto Known-bugs") </br>
-* [Suggestions](#Any-suggestions "Goto Any-suggestions") </br> </br>
+* [Suggestions](#Any-suggestions "Goto Any-suggestions") </br>
+* [License](#License "Goto License") </br></br>
 
 ## Usage
 
@@ -30,7 +31,7 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 ![check](./docs/5.png) </br>
 
 ## Known bugs
--
+none
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

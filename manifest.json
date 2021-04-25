@@ -2,7 +2,7 @@
     "name": "wordwa11",
     "author": "pxtrez",
     "description": "Made by pxtrez || PheaServices 2021 || Discord: doggo pxtrez#9100",
-    "version": "2.1",
+    "version": "2.2",
     "background": {
         "content_scripts": [
             {

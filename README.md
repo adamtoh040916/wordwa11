@@ -14,7 +14,7 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 3. Make sure you have a wordwall account and are logged into it in your browser.
 4. Click 'Automatic Inject' or paste link in '# Link' input. Then wait few seconds and have fun!
 </br></br>
-![cheatGUI](./docs/gui22.PNG)</br></br>
+![cheatGUI](./docs/gui22.png)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
 ## Installation

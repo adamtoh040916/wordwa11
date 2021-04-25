@@ -9,12 +9,12 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 
 ## Usage
 
-1. Open your wordwall link.
+1. Open your wordwall test.
 2. Click on wordwa11 extension logo.
-3. Make sure you have a wordwall account and you are logged into it in your browser.
-4. Click 'Inject cheat', wait few seconds and have fun!
+3. Make sure you have a wordwall account and are logged into it in your browser.
+4. Click 'Automatic Inject' or paste link in '# Link' input. Then wait few seconds and have fun!
 </br></br>
-![cheatGUI](./docs/6.PNG)</br></br>
+![cheatGUI](./docs/gui22.PNG)</br></br>
 Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 
 ## Installation

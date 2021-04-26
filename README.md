@@ -5,7 +5,7 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 * [Installation](#Installation "Goto Installation") </br>
 * [Bugs](#Known-bugs "Goto Known-bugs") </br>
 * [Suggestions](#Any-suggestions "Goto Any-suggestions") </br>
-* [License](#License "Goto License") </br></br>
+<!--* [License](#License "Goto License") </br></br>-->
 
 ## Usage
 

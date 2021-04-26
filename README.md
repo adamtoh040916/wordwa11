@@ -35,5 +35,5 @@ none
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue
-## License
+<!--## License
 [MIT](https://choosealicense.com/licenses/mit/)

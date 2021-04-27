@@ -14,7 +14,7 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 3. Make sure you have a wordwall account and are logged into it in your browser.
 4. I recommend using 'auto mode' but sometimes it doesn't work in resource mode. Then use the 'resource mode' option and type the game pin (after wordwall.net/resource/<pin>/... in the game link). Below the text box is an automatically obtained pin that may not match the correct pin. (the play aka the test mode, works correctly).
 </br></br>
-![cheatGUI](./docs/gui22.png)</br></br>
+![cheatGUI](./docs/gui.png)</br></br>
 Works on private wordwalls.
 
 ## Installation

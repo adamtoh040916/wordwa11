@@ -33,6 +33,7 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 ## Known bugs
 * Sometimes you get error, that link is invalid. Make sure the link does not contain any text in front of wordwall.net/ and resource </br>
 [ EXAMPLE ] https://wordwall.net/pl/resource/34534...
+[ FIX ] https://wordwall.net/resource/34534... (deleted /pl)
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

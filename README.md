@@ -8,7 +8,7 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 <!--* [License](#License "Goto License") </br></br>-->
 
 ## Usage
-
+(examples: resource mode - https://wordwall.net/resource/858004/d-t/nutrients-their-function, play mode - https://wordwall.net/play/858/004/3271)
 1. Open your wordwall test.
 2. Click on wordwa11 extension logo.
 3. Make sure you have a wordwall account and are logged into it in your browser.

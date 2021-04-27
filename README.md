@@ -12,10 +12,10 @@ Wordwa11 is a cheat for wordwall. </br> </br>
 1. Open your wordwall test.
 2. Click on wordwa11 extension logo.
 3. Make sure you have a wordwall account and are logged into it in your browser.
-4. Click 'Automatic Inject' or paste link in '# Link' input. Then wait few seconds and have fun!
+4. I recommend using 'auto mode' but sometimes it doesn't work in resource mode. Then use the 'resource mode' option and type the game pin (after wordwall.net/resource/<pin>/... in the game link). Below the text box is an automatically obtained pin that may not match the correct pin. (the play aka the test mode, works correctly).
 </br></br>
 ![cheatGUI](./docs/gui22.png)</br></br>
-Works on private wordwalls, but only in "play" aka test mode. (that's weird)
+Works on private wordwalls.
 
 ## Installation
 
@@ -31,9 +31,7 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 ![check](./docs/5.png) </br>
 
 ## Known bugs
-* Sometimes you get error, that link is invalid. Make sure the link does not contain any text in front of wordwall.net/ and resource </br>
-[ EXAMPLE ] https://wordwall.net/pl/resource/34534...
-[ FIX ] https://wordwall.net/resource/34534... (deleted /pl)
+nothing
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

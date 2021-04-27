@@ -31,7 +31,8 @@ Works on private wordwalls, but only in "play" aka test mode. (that's weird)
 ![check](./docs/5.png) </br>
 
 ## Known bugs
-none
+* Sometimes you get error, that link is invalid. Make sure the link does not contain any text in front of wordwall.net/ and resource
+[ EXAMPLE ] https://wordwall.net/`pl`/resource/34534...
 
 ## Any suggestions?
 Contact me: `doggo pxtrez#9100` or create an issue

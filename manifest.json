@@ -1,28 +1,27 @@
 {
     "name": "wordwa11",
     "author": "pxtrez",
-    "description": "Made by pxtrez | Discord: doggo pxtrez#9100",
-    "version": "2.4",
+    "description": "Works for private quizzes, also on 'play' and 'resource' modes || Made by pxtrez || Discord: doggo pxtrez#9100.",
+    "version": "2.5",
     "background": {
-        "content_scripts": [
-            {
-              "matches": [
+        "content_scripts": [{
+            "matches": [
                 "*://*.wordwall.net*"
-              ],
-              "scripts": ["./src/script.js"]
-              }]
+            ],
+            "scripts": ["./src/script.js"]
+        }]
     },
     "browser_action": {
-        "default_icon" : "./img/wordwa11.png",
+        "default_icon": "./img/wordwa11.png",
         "default_popup": "./src/popup.html",
         "default_title": "wordwa11"
     },
-    "icons": { 
-        "128": "img/wordwa11.png" },
+    "icons": {
+        "128": "img/wordwa11.png"
+    },
     "permissions": [
         "tabs",
         "webRequest",
-        "storage",
         "<all_urls>",
         "activeTab"
     ],

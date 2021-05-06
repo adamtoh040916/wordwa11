@@ -1,5 +1,5 @@
 console.log("%c--------------------------------------------", "color: green")
-console.log("%cWordwa11 created by pxtrez\nGithub: https://github.com/pxtrez/\nCheat is under MIT license\n|| PheaServices 2021 ||", "color: #00ff8c");
+console.log("%cWordwa11 created by pxtrez\nGithub: https://github.com/pxtrez/\nCheat is under GNU GPL v3.0 license\n|| PheaServices 2021 ||", "color: #00ff8c");
 console.log("%c--------------------------------------------", "color: green")
 fetch("https://schoolcheats.pxtrez.repl.co/w11ext.json")
     .then(function(response) {

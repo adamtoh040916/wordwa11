@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
         var u = decodeURIComponent(tab.url)
         var shit = "chrome-extension://" + chrome.runtime.id
         var f_link = u.replace(shit, "")
-        if (f_link.includes("https://wordwall.net/resource/")) {
+        if (f_link.includes("resource")) {
             var link = f_link.substr(0, f_link.lastIndexOf("/") + 1);
             var pin = link.replace(/\D/g, "");
             console.log("Auto get pin: " + pin);
@@ -43,7 +43,7 @@ function auto() {
         var u = decodeURIComponent(tab.url)
         var shit = "chrome-extension://" + chrome.runtime.id
         var f_link = u.replace(shit, "");
-        if (f_link.includes("https://wordwall.net/resource/") || f_link.includes("https://wordwall.net/play/")) {
+        if (f_link.includes("resource") || f_link.includes("play")) {
             console.log("Injecting to: " + f_link);
             var wait_c = document.getElementById("ConnectButton");
             wait_c.value = " Loading... "
@@ -67,7 +67,7 @@ function auto() {
             });
         }
         // Resource data
-        if (f_link.includes("https://wordwall.net/resource/")) {
+        if (f_link.includes("resource")) {
             console.log("%cResource", "color: green");
             var pin = link.replace(/\D/g, "");
             fetch("https://wordwall.net/api/oembed?url=https%3a%2f%2fwordwall.net%2fpl%2fresource%2f" + pin + "&format=json")
@@ -92,7 +92,7 @@ function auto() {
                 });
         };
         // Play data
-        if (f_link.includes("https://wordwall.net/play/")) {
+        if (f_link.includes("play")) {
             console.log("%cPlay", "color: green");
             fetch(f_link)
                 .then(function(res) {

@@ -1,52 +1,26 @@
-const _0x5a9e = ['58530LapyRi', 'b.com/pxtr', '1erXEjD', 'Error:\x20', 'XQLGC', 'https://gi', 'catch', 'color:\x20gre', '4|0|3|1|2', 'ZhiRn', 'color:\x20#00', 'YVyuP', 'ez/\x0aCheat\x20', '2qcPPbK', 'OYucD', 'getElement', 'uERwS', 'ersion:\x20', 'ton', 'xtrez/word', '1\x20||', 'ErvKM', 'WJVag', 'https://sc', 'wa11/', 'json', 'is\x20under\x20M', '2578taASWA', 'ithub:\x20htt', 'to\x20continu', 'BNcRZ', '.pxtrez.re', 'WUnVO', 'xxGEV', '----------', '\x0a||\x20PheaSe', 'ById', '%cWordwa11', '78lBVwjI', 'ConnectBut', 'bfwGk', '150408CeFfGU', 'wtAWA', '1EuOKRl', '%cActual\x20V', 'tabs', 'ff8c', 'e.\x20\x0a\x0aError', 'then', 'pl.co/w11e', 'ed!\x20Downlo', '171851XqTsgg', 'rvices\x20202', 'thub.com/p', 'ad\x20update\x20', 'SZRro', 'IT\x20license', '------', 'ps://githu', 'xt.json', 'gNyTX', '56963xlKQMI', 'version', '\x20is\x20outdat', 'disabled', '215762oAdOAT', 'y\x20pxtrez\x0aG', '%c--------', '2.5', 'log', '\x20created\x20b', 'Your\x20cheat', 'color:\x20cya', 'hoolcheats', 'create', 'split', '147291CwvSUW', 'innerHTML'];
-
-function _0x4c4f(_0xdb3c0d, _0x389fe1) { _0xdb3c0d = _0xdb3c0d - (0x8ef * -0x4 + 0x5f0 + 0x10 * 0x1f2); let _0x4b15cc = _0x5a9e[_0xdb3c0d]; return _0x4b15cc; }
-const _0x35c378 = _0x4c4f;
-(function(_0x5697cb, _0x45ef02) {
-    const _0x32492a = _0x4c4f;
-    while (!![]) {
-        try {
-            const _0x9a8a8e = parseInt(_0x32492a(0x192)) * parseInt(_0x32492a(0x19d)) + parseInt(_0x32492a(0x177)) + parseInt(_0x32492a(0x179)) * -parseInt(_0x32492a(0x175)) + -parseInt(_0x32492a(0x184)) * -parseInt(_0x32492a(0x166)) + -parseInt(_0x32492a(0x15c)) * parseInt(_0x32492a(0x154)) + parseInt(_0x32492a(0x16a)) + -parseInt(_0x32492a(0x1a0));
-            if (_0x9a8a8e === _0x45ef02) break;
-            else _0x5697cb['push'](_0x5697cb['shift']());
-        } catch (_0x8d38a4) { _0x5697cb['push'](_0x5697cb['shift']()); }
-    }
-}(_0x5a9e, -0x25256 * -0x1 + 0x201e4 + -0x28072), console[_0x35c378(0x16e)](_0x35c378(0x16c) + _0x35c378(0x199) + _0x35c378(0x199) + _0x35c378(0x199) + _0x35c378(0x162), _0x35c378(0x17e) + 'en'), console[_0x35c378(0x16e)](_0x35c378(0x19c) + _0x35c378(0x16f) + _0x35c378(0x16b) + _0x35c378(0x193) + _0x35c378(0x163) + _0x35c378(0x178) + _0x35c378(0x183) + _0x35c378(0x191) + _0x35c378(0x161) + _0x35c378(0x19a) + _0x35c378(0x15d) + _0x35c378(0x18b), _0x35c378(0x181) + _0x35c378(0x157)), console[_0x35c378(0x16e)](_0x35c378(0x16c) + _0x35c378(0x199) + _0x35c378(0x199) + _0x35c378(0x199) + _0x35c378(0x162), _0x35c378(0x17e) + 'en'), fetch(_0x35c378(0x18e) + _0x35c378(0x172) + _0x35c378(0x196) + _0x35c378(0x15a) + _0x35c378(0x164))[_0x35c378(0x159)](function(_0x1373ab) { const _0x333a25 = _0x35c378; return _0x1373ab[_0x333a25(0x190)](); })[_0x35c378(0x159)](function(_0xfa1eaa) {
-    const _0x546d66 = _0x35c378,
-        _0x581f77 = { 'ErvKM': function(_0x2fc55d, _0x3c3038) { return _0x2fc55d + _0x3c3038; }, 'WUnVO': _0x546d66(0x155) + _0x546d66(0x188), 'wtAWA': _0x546d66(0x171) + 'n', 'gNyTX': _0x546d66(0x170) + _0x546d66(0x168) + _0x546d66(0x15b) + _0x546d66(0x15f) + _0x546d66(0x194) + _0x546d66(0x158) + ':\x20', 'BNcRZ': function(_0xe3f8ff, _0x5e717c) { return _0xe3f8ff == _0x5e717c; }, 'YVyuP': _0x546d66(0x16d), 'WJVag': _0x546d66(0x167), 'OYucD': function(_0x511c67, _0xfd6c17) { return _0x511c67 != _0xfd6c17; }, 'XQLGC': _0x546d66(0x17f), 'ZhiRn': _0x546d66(0x17c) + _0x546d66(0x15e) + _0x546d66(0x18a) + _0x546d66(0x18f), 'xxGEV': _0x546d66(0x19e) + _0x546d66(0x189), 'uERwS': function(_0x34df1a, _0x1b7841) { return _0x34df1a(_0x1b7841); } };
-    console[_0x546d66(0x16e)](_0x581f77[_0x546d66(0x18c)](_0x581f77[_0x546d66(0x197)], _0xfa1eaa[_0x546d66(0x167)]), _0x581f77[_0x546d66(0x1a1)]);
-    const _0x28b44b = _0xfa1eaa[_0x546d66(0x167)],
-        _0x260644 = _0x581f77[_0x546d66(0x18c)](_0x581f77[_0x546d66(0x165)], _0x28b44b);
-    if (_0x581f77[_0x546d66(0x195)](_0x28b44b, _0x581f77[_0x546d66(0x182)])) {
-        var _0x2b9281 = document[_0x546d66(0x186) + _0x546d66(0x19b)](_0x581f77[_0x546d66(0x18d)]);
-        _0x2b9281[_0x546d66(0x176)] = _0x28b44b;
-    }
-    if (_0x581f77[_0x546d66(0x185)](_0x28b44b, _0x581f77[_0x546d66(0x182)])) {
-        const _0x26c534 = _0x581f77[_0x546d66(0x17b)][_0x546d66(0x174)]('|');
-        let _0x42b8a0 = -0x7c1 + -0x1713 + -0x7b5 * -0x4;
-        while (!![]) {
-            switch (_0x26c534[_0x42b8a0++]) {
-                case '0':
-                    _0x2b9281[_0x546d66(0x176)] = _0x260644;
-                    continue;
-                case '1':
-                    chrome[_0x546d66(0x156)][_0x546d66(0x173)]({ 'url': _0x581f77[_0x546d66(0x180)] });
-                    continue;
-                case '2':
-                    document[_0x546d66(0x186) + _0x546d66(0x19b)](_0x581f77[_0x546d66(0x198)])[_0x546d66(0x169)] = !![];
-                    continue;
-                case '3':
-                    _0x581f77[_0x546d66(0x187)](alert, _0x260644);
-                    continue;
-                case '4':
-                    var _0x2b9281 = document[_0x546d66(0x186) + _0x546d66(0x19b)](_0x581f77[_0x546d66(0x18d)]);
-                    continue;
-            }
-            break;
+console.log("%c--------------------------------------------", "color: green")
+console.log("%cWordwa11 created by pxtrez\nGithub: https://github.com/pxtrez/\nCheat is under MIT license\n|| PheaServices 2021 ||", "color: #00ff8c");
+console.log("%c--------------------------------------------", "color: green")
+fetch("https://schoolcheats.pxtrez.repl.co/w11ext.json")
+    .then(function(response) {
+        return response.json();
+    })
+    .then(function(json) {
+        console.log("%cActual Version: " + json.version, "color: cyan");
+        const version = json.version
+        const outdated = "Your cheat is outdated! Download update to continue. All Updates are available at my GitHub. \n\nError: " + version
+        if (version == "2.5") {
+            var ver = document.getElementById("version")
+            ver.innerHTML = version;
         }
-    }
-})[_0x35c378(0x17d)](function(_0x201c8d) {
-    const _0x2c939f = _0x35c378,
-        _0x12da03 = { 'bfwGk': function(_0x462779, _0x21e26b) { return _0x462779 + _0x21e26b; }, 'SZRro': _0x2c939f(0x17a) };
-    console[_0x2c939f(0x16e)](_0x12da03[_0x2c939f(0x19f)](_0x12da03[_0x2c939f(0x160)], _0x201c8d));
-}));
+        if (version != "2.5") {
+            var ver = document.getElementById("version")
+            ver.innerHTML = outdated;
+            alert(outdated)
+            chrome.tabs.create({ url: "https://github.com/pxtrez/wordwa11/" });
+            document.getElementById("ConnectButton").disabled = true;
+        }
+    })
+    .catch(function(error) {
+        console.log("Error: " + error);
+    });

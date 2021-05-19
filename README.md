@@ -1,5 +1,7 @@
 # Wordwa11
 
+# Wordwa11 extension is no longer maintained, always updated and the best version of cheat is on our [discord](https://dsc.gg/elekcje)<br><br>
+
 Wordwa11 is a cheat for wordwall. </br> </br>
 * [Usage](#Usage "Goto Usage") </br>
 * [Installation](#Installation "Goto Installation") </br>
